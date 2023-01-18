@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 Hello, I'm a computer science student.
+🌱 I'm willing to own up to my errors. And eager to improve through learning.
+⚡ I enjoy learning new things from the base up.
 <!--
 **Krittiya28/Krittiya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
